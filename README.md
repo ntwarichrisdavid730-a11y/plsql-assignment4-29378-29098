@@ -1,7 +1,7 @@
 # Group Assignment IV: Advanced Oracle PL/SQL Programming
 
 ## Group Members
-Ntwali Chris David 29378
+Ntwari Chris David 29378
 Kirenga Ngamije Serge 29098
 
 ## Application Description
