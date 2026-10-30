@@ -1,0 +1,17 @@
+
+# Operating system files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# VS Code settings
+.vscode/
+
+# Temporary and backup files
+*.tmp
+*.bak
+*.log
+*~
+
+# Oracle SQL Developer connection preferences
+*.sxml
